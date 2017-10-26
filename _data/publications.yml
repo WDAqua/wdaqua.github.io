@@ -1,13 +1,14 @@
 ---
 Faisal2016:
   year: 2016
-  citation: Faisal, Sidra; Endris, Kemele M; Shekarpour, Saeedeh; Auer, Sören; Vidal, Maria-Esther; Co-evolution of RDF Datasets, International Conference on Web Engineering, 225-243, 2016, Springer
+  citation: "Faisal, Sidra; Endris, Kemele M; Shekarpour, Saeedeh; Auer, Sören; Vidal, Maria-Esther; Co-evolution of RDF Datasets, International Conference on Web Engineering, 225-243, 2016, Springer"
 Endris2017:
   year: 2017
-  citation: Endris K.M., Galkin M., Lytra I., Mami M.N., Vidal ME., Auer S. (2017) MULDER: Querying the Linked Data Web by Bridging RDF Molecule Templates. In: Benslimane D., Damiani E., Grosky W., Hameurlain A., Sheth A., Wagner R. (eds) Database and Expert Systems Applications. DEXA 2017. Lecture Notes in Computer Science, vol 10438. Springer, Cham
+  citation: "Endris K.M., Galkin M., Lytra I., Mami M.N., Vidal ME., Auer S. (2017) MULDER: Querying the Linked Data Web by Bridging RDF Molecule Templates. In: Benslimane D., Damiani E., Grosky W., Hameurlain A., Sheth A., Wagner R. (eds) Database and Expert Systems Applications. DEXA 2017. Lecture Notes in Computer Science, vol 10438. Springer, Cham"
 Piscopo2017:
   year: 2017
-  citation: "Wikidatians Are Born: Paths to Full Participation in a Collaborative Structured Knowledge Base. Alessandro Piscopo, Christopher Phethean, Elena Simperl. HICSS-50. 2017 (to appear)"
+  citation: "Wikidatians Are Born: Paths to Full Participation in a Collaborative Structured Knowledge Base. Alessandro Piscopo, Christopher Phethean, Elena Simperl. HICSS-50. 2017"
+  pdf: https://scholarspace.manoa.hawaii.edu/bitstream/10125/41688/1/paper0539.pdf
 Singh2016a:
   year: 2016
   citation: "Towards a Message-Driven Vocabulary for Promoting the Interoperability of Question Answering Systems. Kuldeep Singh, Andreas Both, Dennis Diefenbach, Saeedeh Shekarpour. IEEE ICSC 2016."

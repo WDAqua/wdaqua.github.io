@@ -6,22 +6,24 @@ This repository holds the WDAqua website. It uses [Jekyll](https://jekyllrb.com/
 
 You'll find it easiest to make changes if you have Jekyll running locally so you can test whether the changes work. To do this:
 
-1. Clone the repo:
+1. Install Ruby 2.3.3 eg using [rbenv](https://github.com/rbenv/rbenv/blob/master/README.md) to manage your Ruby versions
+
+2. Clone the repo:
   ```
   $ git clone https://github.com/WDAqua/wdaqua.github.io
   ```
 
-2. Change directory into the new directory that's been made for the repo:
+3. Change directory into the new directory that's been made for the repo:
   ```
   $ cd wdaqua.github.io
   ```
 
-3. Install jekyll and bundler gems
+4. Install jekyll and bundler gems
   ```
   $ gem install jekyll bundler
   ```
 
-4. Run Jekyll locally. It will be served at [http://localhost:4000/](http://localhost:4000/) by default.
+5. Run Jekyll locally. It will be served at [http://localhost:4000/](http://localhost:4000/) by default.
   ```
   $ bundle exec jekyll serve
   ```

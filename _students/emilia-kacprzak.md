@@ -11,6 +11,9 @@ supervisors:
   - Elena Simperl
 publications:
   - Koesten2016
+  - Kacprzak2016
+  - Koesten2017
+  - Kacprzak2017
 ---
 Open datasets are typically catalogued on official portals under defined lists of categories, and accompanied by short metadata. Despite the search functions provided by such catalogues, it is often not possible for an ordinary user to find relevant pieces of information quickly. This can be caused by non-intuitive or limited data descriptions, misleading naming conventions, incorrect assignment of categories to datasets, a user’s lack of in-depth knowledge of the subject, or simply that the search is only conducted over the metadata records rather than the data itself. Functional and non-functional requirements are not sufficiently met by current solutions.
 

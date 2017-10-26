@@ -2,6 +2,9 @@
 Faisal2016:
   year: 2016
   citation: "Faisal, Sidra; Endris, Kemele M; Shekarpour, Saeedeh; Auer, Sören; Vidal, Maria-Esther; Co-evolution of RDF Datasets, International Conference on Web Engineering, 225-243, 2016, Springer"
+Endris2017:
+  year: 2017
+  citation: "Endris K.M., Galkin M., Lytra I., Mami M.N., Vidal ME., Auer S. (2017) MULDER: Querying the Linked Data Web by Bridging RDF Molecule Templates. In: Benslimane D., Damiani E., Grosky W., Hameurlain A., Sheth A., Wagner R. (eds) Database and Expert Systems Applications. DEXA 2017. Lecture Notes in Computer Science, vol 10438. Springer, Cham"
 Piscopo2017:
   year: 2017
   citation: "Wikidatians Are Born: Paths to Full Participation in a Collaborative Structured Knowledge Base. Alessandro Piscopo, Christopher Phethean, Elena Simperl. HICSS-50. 2017"
@@ -76,5 +79,38 @@ Kacprzak2016:
 Koesten2017:
   year: 2016
   citation: "The Trials and Tribulations of Working with Structured Data - a Study on Information Seeking Behaviour. Laura Koesten, Emilia Kacprzak, Jeni Tennison, Elena Simperl. CHI 2017"
-
+Diefenbach2017a:
+  year: 2017
+  citation: "WDAqua-core0: A Question Answering Component for the Research Community.  Dennis Diefenbach, Kamal Singh, Pierre Maret. ESWC, 7th Open Challenge on Question Answering over Linked Data (QALD-7)"
+  pdf: http://wdaqua.eu/assets/publications/2017_ESWC_Workshop__QALD.pdf
+Diefenbach2017b:
+  year: 2017
+  citation: "Introducing Feedback in Qanary: How Users can interact with QA systems. Dennis Diefenbach, Niousha Hormozi, Shanzay Amjad, Andreas Both, ESWC P&D"
+  pdf: http://wdaqua.eu/assets/publications/2017_ESWC_Qanary.pdf
+Diefenbach2017c:
+  year: 2017
+  citation: "Trill: A reusable Front-End for QA systems, Dennis Diefenbach, Shanzay Amjad, Andreas Both, Kamal Singh, Pierre Maret, ESWC P&D"
+  pdf: http://wdaqua.eu/assets/publications/2017_ESWC_Trill.pdf
+Diefenbach2017d:
+  year: 2017
+  citation: "The Qanary Ecosystem: getting new insights by composing Question Answering pipelines. Dennis Diefenbach, Kuldeep Singh, Andreas Both, Didier Cherix, Christoph Lange,Sören Auer. ICWE"
+  pdf: http://wdaqua.eu/assets/publications/2017_ICWE_Qanary.pdf
+Diefenbach2017e:
+  year: 2017
+  citation: "SPARQLtoUser: Did the question answering system understand me?	Dennis Diefenbach, Youssef Dridi, Kamal Singh, Pierre Maret. ISWC Workshop"
+  pdf: http://wdaqua.eu/assets/publications/2017_ISWC_SPARQLtoUser.pdf
+Diefenbach2017f:
+  year: 2017
+  citation: "Question Answering Benchmarks for Wikidata. Dennis Diefenbach, Thomas Pellissier Tanon, Kamal Singh, Pierre Maret. ISWC 2017"
+  pdf: http://wdaqua.eu/assets/publications/2017_ISWC_Posters__Question_Answering_Datasets_over_Wikdata.pdf
+Diefenbach2017g:
+  year: 2017
+  citation: "Core Techniques of Question Answering Systems over Knowledge Bases: a Survey. Dennis Diefenbach, Vanessa Lopez, Kamal Singh, Pierre Maret. Knowledge and Information Systems"
+  pdf: http://wdaqua.eu/assets/publications/2017_KAIS.pdf
+Koesten2017a:
+  year: 2017
+  citation: "Searching Data Portals – More Complex Than We Thought?. Laura M Koesten, Jaspreet Singh. CHIIR 2017. Workshop on Supporting Complex Search Tasks." 
+Kacprzak2017:
+  year: 2017
+  citation: "A Query Log Analysis of Dataset Search. Emilia Kacprzak, Laura M Koesten, Luis-Daniel Ibáñ ez, Elena Simperl, Jeni Tennison. ICWE 2017"
 ---

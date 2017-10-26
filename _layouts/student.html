@@ -61,6 +61,15 @@ title: {{page.name}}
           </p>
         {% endfor %}
       {% endif %}
+      {% if page.students %}
+        <h2>Internship Students</h2>
+        {% for student in page.students %}
+          {% assign st = site.data.students[student] %}
+          <p>
+            ({{student.start}}-{{student.end}}) {{ student.name }} : {{ student.topic}}
+          </p>
+        {% endfor %}
+      {% endif %}
     </div>
     <div class="col-md-5 col-xs-12">
       {% if page.email %}

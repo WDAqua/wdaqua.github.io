@@ -13,11 +13,10 @@ Startups were the main topic of days 1 and 2 (3rd and 4th of September). [Lisa E
 Following Lisa’s sessions, [Alessia Camera](https://theodi.org/person/alessia-camera/) guided the attendees through the main aspects of one of the must-haves for setting up a statup: an idea. What is a startup idea? How can it be developed? How can be effectively presented to convey its core message to an audience? These were amonmg the questions covered by Alessia. 
 During the sessions, the participants developed their own startup ideas and used to they had learned to prepare a presentation.
 
+<blockquote class="twitter-tweet" data-lang="it"><p lang="en" dir="ltr">Is a good idea enough to build a successful startup? <a href="https://twitter.com/AlessiaCamera?ref_src=twsrc%5Etfw">@AlessiaCamera</a> telling us what makes an idea to be a &quot;startup idea&quot; at the <a href="https://twitter.com/hashtag/WDAquaInnovationWeek?src=hash&amp;ref_src=twsrc%5Etfw">#WDAquaInnovationWeek</a> <a href="https://twitter.com/EU_H2020?ref_src=twsrc%5Etfw">@EU_H2020</a> <a href="https://t.co/ESIwgBDw3z">pic.twitter.com/ESIwgBDw3z</a></p>&mdash; WDAqua (@WDAqua) <a href="https://twitter.com/WDAqua/status/1036609379217428480?ref_src=twsrc%5Etfw">3 settembre 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-
-https://twitter.com/WDAqua/status/1036609379217428480
-
-A practical session kicked off the second day: after a description of the main features of the Lean Canvas Model, the participants worked on applying the model on the ideas developed on day 1. The second session was held by [Ryan Goodman](https://theodi.org/person/ryan-goodman/), who first provided an overview of the language used with respect to funding and investment and then described various startup funding opportunities.
+A practical session, run by Lisa Ellwood and [Alessandro Piscopo](https://theodi.org/person/alessandro-piscopo/) kicked off the second day: after a description of the main features of the Lean Canvas Model, the ESRs used it to develop the ideas developed in day 1. The second session was held by [Ryan Goodman](https://theodi.org/person/ryan-goodman/), who first provided an overview of the language used with respect to funding and investment and then described various startup funding opportunities.
 
 After the lunch break, the participants got a first taste of career development training, with Andreas Both giving a talk about pursuing a career in industry after a PhD. He provided participants with practical advice and examples from his own professional experience. 
 The last session of the day was a competition: participants had to put in practice everything they had learned until then, developing a startup idea using the Lean Model Canvas, describing the funding options and their revenue plans, and pitching that to three judges, Jeni Tennison, Louise Burke, and Andreas Both.

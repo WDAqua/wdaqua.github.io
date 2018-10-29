@@ -1,6 +1,6 @@
 ---
-title: WDAqua Innovation Week
-summary: The WDAqua Innovation Week: coming together to learn about startups, career development, and cooking!
+title: WDAqua@HCOMP2018
+summary: The  6th AAAI Conference on Human Computation and Crowdsourcing (aka [HCOMP 2018](https://www.humancomputation.com/2018/index.html)) was held in Zurich from the 5th to the 8th of July. This year the conference was back in Europe, after seven editions in the US. This post gives an account of the contributions made by WDAqua.
 ---
 
 Several activities and events have been organised throughout the duration of WDAqua to provide its Early Stage Researchers (ESRs) training in broad range of technical and non-technical skills. One of these events has been the WDAqua Innovation Week, which took place in London in the first week of September (3rd to 7th) in the offices of one of its partners, the Open Data Institute (ODI). 

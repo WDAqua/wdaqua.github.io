@@ -1,15 +1,12 @@
 ---
-title: WDAqua Innovation Week
-summary: The WDAqua Innovation Week took place between the 3rd and the 7th of September in London, in the offices of the Open Data Institute. This is an account of the event.
+title: The WDAqua Innovation Week: coming together to learn about startups, career development, and cooking!
+summary: Several activities and events have been organised throughout the duration of WDAqua to provide its Early Stage Researchers (ESRs) training in broad range of technical and non-technical skills. One of these events has been the WDAqua Innovation Week, which took place in London in the first week of September (3rd to 7th) in the offices of one of its partners, the Open Data Institute (ODI).
 ---
-
-Several activities and events have been organised throughout the duration of WDAqua to provide its Early Stage Researchers (ESRs) training in broad range of technical and non-technical skills. 
-One of these events has been the WDAqua Innovation Week, which took place in London in the first week of September (3rd to 7th) in the offices of one of its partners, the Open Data Institute (ODI).
 
 The ODI organised the event, drawing on its competences and network within the field of tech entrepreneurship to gather a panel of internal and external speakers to provide participants – all of them WDAqua ESRs – with top-quality training and advice about startup and web entrepreneurship and career development. 
 All of the speakers had several years of experience in their respective fields and the ESRs were able to receive tailored about any of the topics covered in the sessions.
 
-Startups were the main topic of days 1 and 2 (3rd and 4th of September). [Lisa Ellwood](https://www.linkedin.com/in/lisa-ellwood-05808715/?originalSubdomain=uk), from the ODI, introduced the attendees to the basics of startups – what is a startup, how to get involved, and where to find support. The session included a number of practical activities, which helped students grasp the key concepts related to startups and innovation with more clarity.
+Startups were the main topic of days 1 and 2 (3rd and 4th of September). [Lisa Ellwood](https://www.linkedin.com/in/lisa-ellwood-05808715/?originalSubdomain=uk) introduced the attendees to the basics of startups – what is a startup, how to get involved, and where to find support. The session included a number of practical activities, which helped students grasp the key concepts related to startups and innovation with more clarity.
 Following Lisa’s sessions, [Alessia Camera](https://theodi.org/person/alessia-camera/) guided the attendees through the main aspects of one of the must-haves for setting up a statup: an idea. What is a startup idea? How can it be developed? How can be effectively presented to convey its core message to an audience? These were amonmg the questions covered by Alessia. 
 During the sessions, the participants developed their own startup ideas and used to they had learned to prepare a presentation.
 

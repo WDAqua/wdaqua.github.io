@@ -1,5 +1,5 @@
 ---
-title: WDAqua@HCOMP2018
+title: WDAqua Innovation Week
 summary: The  6th AAAI Conference on Human Computation and Crowdsourcing (aka [HCOMP 2018](https://www.humancomputation.com/2018/index.html)) was held in Zurich from the 5th to the 8th of July. This year the conference was back in Europe, after seven editions in the US. This post gives an account of the contributions made by WDAqua.
 ---
 

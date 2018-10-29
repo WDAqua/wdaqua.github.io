@@ -1,5 +1,5 @@
 ---
-title: WDAqua Innovation Week @ the ODI
+title: WDAqua Innovation Week
 summary: The WDAqua Innovation Week: coming together to learn about startups, career development, and cooking!
 ---
 

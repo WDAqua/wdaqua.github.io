@@ -1,8 +1,9 @@
 ---
-title: The WDAqua Innovation Week: coming together to learn about startups, career development, and cooking!
-summary: Several activities and events have been organised throughout the duration of WDAqua to provide its Early Stage Researchers (ESRs) training in broad range of technical and non-technical skills. One of these events has been the WDAqua Innovation Week, which took place in London in the first week of September (3rd to 7th) in the offices of one of its partners, the Open Data Institute (ODI).
+title: WDAqua Innovation Week @ the ODI
+summary: The WDAqua Innovation Week: coming together to learn about startups, career development, and cooking!
 ---
 
+Several activities and events have been organised throughout the duration of WDAqua to provide its Early Stage Researchers (ESRs) training in broad range of technical and non-technical skills. One of these events has been the WDAqua Innovation Week, which took place in London in the first week of September (3rd to 7th) in the offices of one of its partners, the Open Data Institute (ODI). 
 The ODI organised the event, drawing on its competences and network within the field of tech entrepreneurship to gather a panel of internal and external speakers to provide participants – all of them WDAqua ESRs – with top-quality training and advice about startup and web entrepreneurship and career development. 
 All of the speakers had several years of experience in their respective fields and the ESRs were able to receive tailored about any of the topics covered in the sessions.
 

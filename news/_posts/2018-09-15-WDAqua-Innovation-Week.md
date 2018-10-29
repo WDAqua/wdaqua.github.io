@@ -32,6 +32,6 @@ In the evening, the WDAqua people could improve a skill probably neglected durin
 The last two days of the Innovation Week focused on career development. [Rob Nathan](http://www.career-counselling-services.co.uk/people/robert-nathan-managing-director/) held the morning sessions on the 6th, carrying out different activities with the participants to help them consider which career option may be more suitable to their personality and interests.
 The remaining sessions were run by [Michelle Prescott](https://www.linkedin.com/in/michelle-prescott-fcipd-862b728/), who touched on several themes. In particular, she discussed with participants what it means to be an employee, providing guidance for a healthy work/life balance. She also provided advice on how to be a team manager and deal with the challenges deriving from managing equality and performance. In the last part of the last day, she outlined the best strategies to apply for a position and tailor a CV for it, giving the opportunities to those who desired it to have 1:1 coaching sessions at the end of the day.
 
-WDAqua is drawing to a close, but this was not the last event of the project. All the ESRs and advisors are looking forward to meet again at the final event in Hannover on the 13th and 14th of December.
+WDAqua will draw to a close at the end of this year, but this was not the last event of the project. All the ESRs and advisors are looking forward to meet again at the final event in Hannover on the 13th and 14th of December.
 
 

@@ -1,0 +1,31 @@
+---
+title: WDAqua Innovation Week
+summary: The WDAqua Innovation Week took place between the 3rd and the 7th of September in London, in the offices of the Open Data Institute. This is an account of the event.
+---
+
+Several activities and events have been organised throughout the duration of WDAqua to provide its Early Stage Researchers (ESRs) training in broad range of technical and non-technical skills. 
+One of these events has been the WDAqua Innovation Week, which took place in London in the first week of September (3rd to 7th) in the offices of one of its partners, the Open Data Institute (ODI).
+
+The ODI organised the event, drawing on its competences and network within the field of tech entrepreneurship to gather a panel of internal and external speakers to provide participants – the ESRs – with top-quality training and advice about startup and web entrepreneurship and career development. 
+All of the speakers had several years of experience in their respective fields and the ESRs were able to receive tailored about any of the topics covered in the sessions.
+
+Startups were the main topic of days 1 and 2 (3rd and 4th of September). [Lisa Ellwood](https://www.linkedin.com/in/lisa-ellwood-05808715/?originalSubdomain=uk), from the ODI, introduced the attendees to the basics of startups – what is a startup, how to get involved, and where to find support. The session included a number of practical activities, which helped students grasp the key concepts related to startups and innovation with more clarity.
+Following Lisa’s sessions, [Alessia Camera](https://theodi.org/person/alessia-camera/) guided the attendees through the main aspects of one of the must-haves for setting up a statup: an idea. What is a startup idea? How can it be developed? How can be effectively presented to convey its core message to an audience? These were amonmg the questions covered by Alessia. 
+During the sessions, the participants developed their own startup ideas and used to they had learned to prepare a presentation.
+
+
+
+https://twitter.com/WDAqua/status/1036609379217428480
+
+A practical session kicked off the second day: after a description of the main features of the Lean Canvas Model, the participants worked on applying the model on the ideas developed on day 1. The second session was held by [Ryan Goodman](https://theodi.org/person/ryan-goodman/), who first provided an overview of the language used with respect to funding and investment and then described various startup funding opportunities.
+
+After the lunch break, the participants got a first taste of career development training, with Andreas Both giving a talk about pursuing a career in industry after a PhD. He provided participants with practical advice and examples from his own professional experience. 
+The last session of the day was a competition: participants had to put in practice everything they had learned until then, developing a startup idea using the Lean Model Canvas, describing the funding options and their revenue plans, and pitching that to three judges, Jeni Tennison, Louise Burke, and Andreas Both.
+All the projects addressed to some extent issues with ethical implications. Laura and Lucie’s project was called Talking drugs. Its aim was to help pharmacies to assist foreigners in finding the right medicine – and taking it responsibly – by automatically generating text from structured data, especially in underserved languages.
+fairbuy was the project presented by Alessandro and José and focused on helping consumers, and retailers, to understand the ethical implication of their purchases. Other projects aimed at helping reduce plastic waste in organisations (Emilia and Kemele) or at supporting people suffering from insomnia (Niousha and Denis). The competition was tough but eventually the judges awarded the prize to Laura and Emilia, for the clarity of their presentation and the soundness of their business plan.
+
+The third day was entirely dedicated to social events, to foster bonding between participants. In the morning, they went to Bletchley Park, the place where the codebreakers, including [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing) and [Bill Tutte](https://en.wikipedia.org/wiki/W._T._Tutte), worked during World War II to decipher the Enigma code. The exhibition is laid out across a large park and a number of huts, where the work and daily life of the codebreakers took place. 
+In the evening, the WDAqua people could improve a skill probably neglected during their PhDs: cooking! Everybody took part in a cookery class, where they were guided by expert staff to prepare their dinner, learning various techniques. 
+
+The last two days of the Innovation Week focused on career development. Rob Nathan held the morning sessions on the 6th, carrying out with the participants different activities to help them consider which career option may be more suitable to their personality and interests.
+The remaining sessions were run by Michelle Prescott, who touched on several themes. In particular, she focus on what it means to be an employee, providing guidance for a healthy work/life balance and to be a team manager, managing equality and performance. In the last part of the last day, she worked with the participants on how to apply for a job and write a CV, giving 1:1 coaching and advice. 

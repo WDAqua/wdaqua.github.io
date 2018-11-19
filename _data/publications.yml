@@ -1,4 +1,18 @@
 ---
+Kacprzak2018:
+  year: 2018
+  citation: "Making Sense of Numerical Data - Semantic Labelling of Web Tables. Emilia Kacprzak, José M. Giménez-García, Alessandro Piscopo, Laura Koesten, Luis-Daniel Ibáñez, Jeni Tennison, Elena Simperl. EKAW 2018"
+  url: https://link.springer.com/chapter/10.1007/978-3-030-03667-6_11
+Piscopo2018b:
+  year: 2018
+  citation: "Position Paper: Wikidata: A New Paradigm of Human-Bot Collaboration? Alessandro Piscopo. Participation + Algorithms Workshop, CSCW '18"
+  url: https://algorithmsworkshop.wixsite.com/mysite/position-papers
+  pdf: https://drive.google.com/file/d/1-WH4qZKZjeireaSI8One5be7_yD1i8j6/view
+Piscopo2018a:
+  year: 2018
+  citation: "Who Models the World?: Collaborative Ontology Creation and User Roles in Wikidata. Alessandro Piscopo, Elena Simperl. CSCW '18"
+  url: https://dl.acm.org/citation.cfm?id=3274410
+  pdf: http://delivery.acm.org/10.1145/3280000/3274410/cscw141-piscopo.pdf?ip=62.254.247.131&id=3274410&acc=OPEN&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1542639392_1d77d255b1f326595658267bc4362277
 Endris2018b:
   year: 2018
   citation: "Querying Interlinked Data by Bridging RDF Molecule Templates. Kemele M. Endris, Mikhail Galkin, Ioanna Lytra, Mohamed Nadjib Mami, Maria-Esther Vidal, Sören Auer. TLDKS 2018"

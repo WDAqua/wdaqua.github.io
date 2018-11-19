@@ -16,7 +16,7 @@ orcid: 0000-0002-0362-4826
 publications:
   - Piscopo2018a
   - Piscopo2018b
-  - Kacprzak2018
+  - Kacprzak2018a
   - Piscopo2017a
   - Piscopo2017b
   - Piscopo2017c

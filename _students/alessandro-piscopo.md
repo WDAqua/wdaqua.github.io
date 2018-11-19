@@ -8,12 +8,15 @@ host: soton
 start-date: 2015-04-13
 supervisors:
   - Elena Simperl
-email: A.Piscopo <at> soton.ac.uk
+email: alessandro.piscopo <at> gmail.com
 twitter: aliossandro
 github: Aliossandro
 scholar: KJrgraoAAAAJ&hl
 orcid: 0000-0002-0362-4826
 publications:
+  - Piscopo2018a
+  - Piscopo2018b
+  - Kacprzak2018
   - Piscopo2017a
   - Piscopo2017b
   - Piscopo2017c
